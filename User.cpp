@@ -18,15 +18,6 @@ public:
     }
 };
 
-// User::User(/* args */)
-// {
-// }
-
-// User::~User()
-// {
-// }
-
-
 int main()
 {
     User u;
